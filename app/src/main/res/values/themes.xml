@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.RobotControl" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="android:windowBackground">#121212</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+    </style>
+</resources>
