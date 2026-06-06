@@ -73,8 +73,3 @@ app/
 * Record Audio
 
 
-## Authors
-
-Developed as part of a self-balancing robot project using ESP32 and Android.
-
-
